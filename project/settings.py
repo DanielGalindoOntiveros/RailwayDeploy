@@ -70,7 +70,7 @@ MIDDLEWARE = [
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    'web-production-20f9.up.railway.app'
+    'https://web-production-20f9.up.railway.app'
 ]
 
 
